@@ -1,0 +1,500 @@
+## COVID-19 pandemic: from origins to outcomes. A comprehensive review of viral pathogenesis, clinical manifestations, diagnostic evaluation, and management
+
+Rohan Kumar Ochani 1 , Ameema Asad 1 , Farah Yasmin 1 , Shehryar Shaikh 1 , Hiba Khalid 1 , Simran Batra 1 , Muhammad Rizwan Sohail 2 , Syed Faisal Mahmood 3 , Rajkumar Ochani 4 , Mohammad Hussham Arshad 5 , Arjan Kumar 6 , Salim Surani 7,8
+
+- 1 Department of Internal Medicine, Dow University of Health Sciences, Karachi, Pakistan;
+
+2 Division of Infectious Diseases, Baylor College of Medicine, Houston, Texas, USA;
+
+- 3 Section of Infectious Diseases, Department of Medicine, Aga Khan University, Karachi, Pakistan;
+- 4 Department of Anesthesiology, Australian Concept Infertility Medical Center, Karachi, Pakistan;
+
+5 Department of Internal Medicine, Aga Khan University, Karachi, Pakistan;
+
+6 Department of Medical ICU, Dr. Ruth K.M. Pfau Civil Hospital Karachi, Karachi, Pakistan;
+
+7 Department of Internal Medicine, Corpus Christi Medical Center, Corpus Christi, Texas, USA;
+
+8 Department of Internal Medicine, University of North Texas, Dallas, USA
+
+## SUMMARY
+
+Severe  Acute  Respiratory  Syndrome  Coronavirus-2 (SARS-CoV-2),  the  causative  pathogen  for  the  COVID-19, first emerged in Wuhan, China, in December 2019 and by March 2020, it was declared a pandemic. COVID-19 pandemic has overburdened healthcare systems in most countries and has led to massive economic losses. SARS-CoV-2 transmission typically occurs by respiratory droplets. The average incubation period is 6.4  days  and  presenting  symptoms  typically  include fever,  cough,  dyspnea,  myalgia  or  fatigue.  While  the
+
+## n INTRODUCTION
+
+T he 2019 novel CoV, now named as Severe Acute Respiratory  Syndrome  Coronavirus-2  (SARSCoV-2) by the International Committee on Taxonomy majority of patients tend to have a mild illness, a minority of patients develop severe hypoxia requiring hospitalization and mechanical ventilation. Management is mostly  supportive.  However,  several  direct  anti-viral agents, and immunomodulatory therapy with steroids and various cytokine blockers seem promising in early results. However, an effective vaccine has been established, which will help curb the pandemic.
+
+Keywords: Bvnbmb
+
+of Viruses , belongs to the genus beta-CoV [1]. BetaCoV also comprises of the Severe Acute Respiratory  Syndrome  CoV  (SARS-CoV),  and  Middle Eastern Respiratory Syndrome CoV (MERS-CoV). On February 11 th , 2020, the World Health Organization (WHO) announced a new name for disease caused by SARS-CoV-2: CoV disease (COVID-19), and exactly a month later, on March 11 th , 2020, it was declared as a pandemic [1, 2].
+
+SARS-CoV-2  first  emerged  in  Wuhan,  China,  in
+
+December 2019, with the first case being linked to a seafood market [3, 4]. Since then, the virus has spread very rapidly, and as of January 17 th , 2021, it  has  infected  over  93  million  people  and  has claimed over 2million lives [5]. Although the mortality rate of SARS-CoV-2 appears to be lower than SARS-CoV and MERS-CoV, it is transmitted much more quickly and widely in comparison, resulting in a global healthcare and financial crisis [6].
+
+In this review, we summarize current knowledge about  geographic  distribution,  virology,  clinical manifestations,  diagnosis,  and  management  of COVID-19.
+
+## n METHODS
+
+A literature search was performed using PubMed/MEDLINE  and  Google  Scholar  from their  inception  until  January  2021  using  the  following search string: 'Coronavirus' AND 'outbreak' OR 'transmission' OR 'geographical distribution'' OR 'virology' OR 'pathogenesis' OR 'genomic structure' OR 'causality' OR 'genomic distribution' OR 'etiology' OR 'clinical manifestation' OR 'transmission' OR 'diagnosis' OR 'treatment'  OR  'prevention'  OR  'vaccination' OR 'biosafety' OR 'economic burden'. Articles in languages other than English were excluded.
+
+## n GEOGRAPHICAL DISTRIBUTION
+
+In December 2019, several patients with pneumonia of an unknown etiology were admitted to hospitals in Wuhan [3, 4]. According to a document published  by  WHO,  44  patients  affected  by  of pneumonia of unknown etiology had been reported by January 3 rd , 2020, with 11 patients severely ill.  On  January  8 th ,  2020,  the  genetic  sequencing demonstrated a novel CoV as the potential causative organism [3, 7].
+
+On  March  11 th ,  2020,  the  WHO  declared  SARSCoV-2 as a pandemic with confirmed cases in 114 countries  [2].  By  mid-March,  Europe  had  more cases  than  anywhere  in  the  world  while  COVID-19 had spread to more than 160 countries [8]. By  the  end  of August  2020,  the  WHO  region  of Americas  had  the  highest  burden  of  COVID-19 globally, accounting for almost half of all new cases reported in the last week of August. The United States of America (USA) had the highest number of cases in the world; however, a decline in new cases was seen from previous peaks in July of over 70,000 cases per day to an average of 41,000 new cases per day [9].
+
+A  consistent  increase  in  new  cases  and  deaths was seen over the month of September 2020 in the Eastern  Mediterranean  Region  with  the  highest number of new cases reported by Iraq, Iran and Morocco.  The  region  of  Americas  continued  to be the most affected WHO region with the USA, Brazil,  Argentina  and  Colombia  reporting  the highest number of new cases in the last week of September. The number of new cases in the USA continued to rise and by the end of October, they started approaching the previous epidemic peak observed in July [10].
+
+In  December  2020,  two  new  variants  of  SARSCoV-2 were reported by the WHO, one by the au-
+
+Table 1 - Top 20 countries affected by COVID-19.*
+
+|   # | Country                  |   Total Cases |   Total Deaths |   Total recovered |
+|-----|--------------------------|---------------|----------------|-------------------|
+|   1 | United States of America |    24,439,427 |        406,162 |        14,970,252 |
+|   2 | India                    |    10,610,883 |        152,869 |        10,265,706 |
+|   3 | Brazil                   |     8,638,249 |        212,831 |         7,618,080 |
+|   4 | Russia                   |     3,616,680 |         66,810 |         3,021,861 |
+|   5 | United Kingdom           |     3,515,796 |         93,469 |             8,492 |
+|   6 | France                   |     3,023,661 |         71,792 |           219,354 |
+|   7 | Italy                    |     2,414,166 |         83,681 |         1,806,932 |
+|   8 | Spain                    |     2,412,318 |         54,637 |           150,376 |
+|   9 | Turkey                   |     2,406,216 |         24,487 |         2,283,919 |
+|  10 | Germany                  |     2,100,618 |         50,079 |         1,778,319 |
+|  11 | Colombia                 |     1,956,979 |         49,792 |         1,786,170 |
+|  12 | Argentina                |     1,831,681 |         46,216 |         1,613,773 |
+|  13 | Mexico                   |     1,688,944 |        144,371 |         1,264,780 |
+|  14 | Poland                   |     1,457,755 |         34,561 |         1,215,732 |
+|  15 | South Africa             |     1,369,426 |         38,854 |         1,160,412 |
+|  16 | Iran                     |     1,354,520 |         57,150 |         1,144,549 |
+|  17 | Ukraine                  |     1,216,780 |         22,521 |           947,087 |
+|  18 | Peru                     |     1,073,214 |         39,044 |           993,509 |
+|  19 | Indonesia                |       951,651 |         27,203 |           772,790 |
+|  20 | Netherlands              |       940,106 |         13,350 |            12,102 |
+
+*According to COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) (https:// coronavirus.jhu.edu/map.html), as of January 21, 2021.
+
+thorities from the United Kingdom, referred as VOC 202012/01  and  another  detected  in  South  Africa, named  501Y.V2.  Initial  analysis  of  these  variants suggested that they may spread more rapidly [11].
+
+As of January 17 th ,  2020,  COVID-19  has  affected a  total  of  93,217,287  people  worldwide  with  60 countries reporting imported cases or community transmission of the VOC 202012/01 variant and 23
+
+Figure 1 - Top 20 countries affected by COVID-19 (October 18, 2020).
+
+<!-- image -->
+
+Figure 2 - Deaths in the top 20 countries affected by COVID-19 (October 18, 2020).
+
+<!-- image -->
+
+countries reporting cases of the 501Y.V2 variant. Several  ongoing  studies  are  being  conducted  to determine the transmission and severity of these new variants [12].
+
+The total numbers of cases, deaths, and recovered patients in the 20 leading countries are shown in Table 1, and Figures 1 and 2.
+
+## n VIROLOGY
+
+CoV is an enormous group of viruses belonging to the Nidovirales order, which comprises of Coronaviridae, Roniviridae and Arteriviridae families. Crucial features are common to all the viruses of Nidovirales order, which means that all are enveloped, non-segmented positive-sense RNA viruses. Moreover, they all contain very large genomes for RNA viruses, and additional features include:
+
+- 1)  a highly conserved genomic organization, with a large replicase gene preceding structural and accessory genes;
+- 2)  expression  of  many  non-structural  genes  by ribosomal frameshifting;
+- 3)  several unique or unusual enzymatic activities encoded within  the  large  replicase-transcriptase polyprotein;
+- 4)  expression of downstream genes by the synthesis of 3 ′ nested sub-genomic mRNAs [13].
+
+The CoV (one of two subfamilies in the Coronaviridae  family)  is  subdivided  into  four  groups based on serology: the alpha, beta, gamma, and delta  CoVs  [13].  Amongst  these,  the  alpha-and beta viruses infect mammals, gamma CoV infect avian species, and delta CoV can infect the mammals as well as the avian species [14].
+
+Structurally,  CoVs  form  enveloped  and  spherical particles of 100-160 nm in diameter. The most notable characteristic of CoV is the club-shaped spike projections protruding from its surface. CoV has the largest identified RNA genomes, containing approximately 30 kilobase (kb) genomes. This is  packed  inside  a  helical  capsid  formed  by  the nucleocapsid  (N)  protein  and  then  further  surrounded by an envelope. Additionally the spike is an imperative determinant of viral host range and tissue tropism and a distinguished inducer of host immune responses [14, 15].
+
+The Replication-Transcription  Complex  (RTC) has  been  investigated  by  Van  Hemert  MJ  et  al. [16]. The findings of the study concluded that viral  RNA  synthesis  and  intracellular  membranes are functionally connected and, thus, consequently established that host factors play a prominent role in CoV RNA synthesis [16].
+
+## n PATHOGENESIS
+
+CoV's  four  structural  proteins,  S,  N,  M,  and  E, enable  the  virus  to  gain  access  to  the  host  cell [17, 18]. The S protein is heavily N-glycosylated, the M protein is present as a dimer in the virion, which  maintains  its  shape  and  the  E  protein,  a transmembrane protein with an Ion channel activity plays an important role in viral pathogenesis. This promotes the assembly and release of the virus from the host cell [19]. The N protein is only present in the nucleocapsid, which helps bind the viral genome with the NSP3 protein of the RTC and packages the RNA species produced during infection into the viral particles. It also serves as an antagonist of interferon (IFN), which appears to be beneficial for viral replication [20, 21]. Finally, the HE enhances the S protein binding activity and spread of the virus through the mucosa [22]. Following  the  initial  attachment  of  the  Receptor Binding Domain (RBD) of the S protein with its receptor, the virus enters the human cells. [23-25, 26]. Recent literature suggests that the high pathogenicity and transmissibility of SARS-CoV-2 could be attributed to the modified residues of RBD of S  protein  compared  to  SARS-CoV,  presence  of the polybasic furin cleavage site (RRAR) not observed  in  other  coronaviruses.  This  facilities  an effective cleavage of S protein by furin and other proteases. Additionally, the 'S trimer' exists in a partially opened state in highly pathogenic coronaviruses [27].
+
+Following  the  viral  entry  into  the  host  cell  cytoplasm,  the  replication,  transcription  and  the translation of the viral structural proteins, including M, E, and N proteins, occur, which are assembled  into  the  virus  and  released  via  exocytosis. The S protein does not get assembled and directs the cell-cell fusion between infected cells leading to the formation of large multinucleated cells that go  undetected  by  virus-specific  antibodies,  thus allowing  the  virus  to  spread  within  an  infected organism [28].
+
+The new SARS-CoV-2 uses the ACE2 receptor like the original SARS-CoV to facilitate viral entry into the target cells that leads to the downregulation of  these  receptors,  and  increased  production  of
+
+angiotensin-2 (AT2). Increased production of AT2 potentially increases pulmonary vascular permeability and may cause lung injury. Approximately 83% of the ACE2 receptors are expressed on the luminal surface of alveolar epithelial type II cells, making these as the primary reservoirs of viral invasion. Additionally, the multi-organ dysfunction observed in these patients can be attributed to the wide distribution of ACE2 receptors in extra-pulmonary tissues, including heart, kidney, endothelium, and intestine [29].
+
+Pathological findings of a patient diagnosed with Acute  Respiratory  Distress  Syndrome  (ARDS) indicated  diffuse  alveolar  damage  with  cellular fibromyxoid  exudates  and  pulmonary  edema, desquamation of pneumocytes, and hyaline membrane formation upon lung biopsy. Furthermore, the infiltration of interstitial mononuclear inflammatory  infiltrates,  dominated  by  lymphocytes, was also observed. The over activation of the Tcells leads to an increased concentration of pro-inflammatory cytokines released by the CD4 T-cells and higher amounts of cytotoxic granules in CD8
+
+T-cells contributed to the severe immune injury in the  patient.  SARS-CoV-2  infects  alveolar  macrophages and epithelial cells that contain these viral particles and initiate lung inflammatory responses [30]. The clinical phase of SARS-CoV-2 can be categorized into three phases namely 'viremia phase' in  which  the  virus  enters  the  peripheral  blood from the lungs, 'acute or the pneumonia phase' in  which  the  immune-compromised  individuals  become severely critical  with  T  lymphocytes and  B  lymphocytes  significantly  reduced  while inflammatory cytokines mainly IL-6 and coagulation parameters such as D-Dimer are abnormally elevated in the 'recovery phase'. As a result, Disseminated  Intravascular  Coagulation  (DIC)  due to  inflammation  and  infection  due  to  excessive activation of the coagulation cascade is observed [31].  Initial  plasma  levels  of  inflammatory  cytokines in patients affected with SARS-CoV-2 is observed to be higher as compared to healthy adults. Chest CT scans in patients with viral pneumonia demonstrated ground-glass opacification with or without  consolidative  abnormalities  which  are
+
+Figure 3 - Pathophysiology of SARS-CoV-2.
+
+<!-- image -->
+
+Abbreviations: RBD; receptor binding protein, ACE-2; angiotensin converting enzyme-2 receptors, TMPRSS2; type 2 transmembrane serine protease, SARS-CoV-2, severe acute respiratory syndrome coronavirus-2, ARDS; acute respiratory distress syndrome, DVT, deep venous thrombosis, COVID-19; coronavirus disease-19.
+
+more likely to be bilateral with a peripheral distribution involving the lower lobes of the lungs. Additionally, splenic atrophy, necrosis of hilar lymph nodes and focal hemorrhage in the kidney, liver enlargement  with  infiltration  of  inflammatory cells, edema and scattered neuronal degeneration in  brain  [32,33].  Furthermore,  an  autopsy  study conducted  by  Wichmann  et  al.  demonstrated  a high incidence of Deep Venous Thrombosis (DVT) (58%) with one-third of COVID-19 patients having  Pulmonary Embolism (PE) as a direct cause of death [34]. Lastly, the pathological mechanisms underlying myocardial injury in SARS-CoV-2 patients constitutes coronary spasm, hypoxic injury, microthrombi, direct vascular endothelial injury, hypercoagulability, and atherosclerotic plaque instability  that  increases  the  risk  of  developing acute myocardial infarction due to acute coronary occlusion  [35].  Furthermore,  olfactory  dysfunction has also been reported in COVID-19 patients, however it still remains unclear whether the virus affects sensory cells or the olfactory bulb directly [36,  37].  The  pathophysiology  of  SARS-CoV-2  is summarized in Figure 3.
+
+## n TRANSMISSION
+
+The newly identified SARS-CoV-2 has been suspected  to  extend  to  humans  from  bats  through pangolins  even  though  conclusive  evidence  in support of this is yet to be found [38].
+
+After  successful  infection  of  a  human  host,  further  horizontal  transmission  of  the  SARS-CoV-2 occurs chiefly through human-to-human contact, either directly through respiratory droplets or indirectly by touching contaminated surfaces [39]. In addition, it has also been discovered that SARSCoV-2 can remain airborne for up to 3 hours [39], increasing  the  risk  of  contracting  the  virus  [39]. In  regard  to  vertical  transmission,  maternal  COVID-19  has  a  low  likelihood  for  transmission  to the newborn [39-41]. The presence of SARS-CoV-2 RNA in urine and feces has been detected leading to the implication of the fecal-oral route in its transmission as well; however, this route is considered to have a minor role only as the levels of the viral genetic material found in urine and feces is much lower than that in nasopharyngeal fluids [42].
+
+Viral shedding by asymptomatic people is a major factor for ongoing transmission and may represent 25 to 50% of total new infections. This has led to the recommendation for universal masking [43]. Viral shedding may start 1 to 2 days before symptom onset and viral titers in respiratory secretions are noted to be highest in the early stages of infection with a quick decline soon after [44]. As already reported above, of recent concern is a new strain identified in the United Kingdom (UK) namely, SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01), as it is reported as having 75% more transmissibility and has  spread  to  multiple  countries  outside  of  the UK [45, 46].
+
+## n CLINICAL MANIFESTATIONS
+
+Of the seven strains of H-CoV known, their potential to cause a respiratory tract disease ranges from mild to severe [47]. The incubation period, clinical presentation, and case fatality for each HCoV are mentioned in Table 2.
+
+The most common complaints are fever, cough, and dyspnea, and less frequently gastrointestinal symptoms like diarrhea [48,49]. Older age group (65 years or older) is at higher risk of developing severe  SARS-CoV-2  infection  because  of  higher proportion of established co-morbidities [49]. However, younger adults are also being hospitalized with severe illness, albeit with much lower frequency. In a study by Zhang et al., SARS-CoV-2 infection was less likely in smokers, but the likelihood of the severity of disease upon infection in smokers may be higher [49]. Data from USA suggests that obesity may be considered as an independent risk factor for hospitalization and severe disease  [50].  Children  are  less  likely  to  develop symptomatic infection and are less prone to severe disease [51].
+
+Furthermore, there have been reports of taste alterations  and  olfactory  disturbances  documented  during  the  earlier  course  of  the  disease  [52]. Additionally,  cutaneous  manifestations  such  as eryhtematous rashes and urticaria have also been reported in infected patients [53]. COVID-19 has also been associated with the involvement of the cardiovascular system [54-56]. Moreover, neurological  manifestations  such  as  headache,  altered conscious state, dizziness, and acute cerebrovascular disease have also been exhibited by patients [57].  Regarding  liver  injury  in  COVID-19,  multiple  reasons  such  as  drug-related  hepatotoxicity and immune-mediated damage like cytokine
+
+Table 2 - Clinical features of Human Coronaviruses (HCoVs).
+
+|                   | HCoV-229E                                               | HCoV-OC43                                                        | HCoV-NL63                                                                          | HCoV-HKU1                  | SARS-CoV                                                                          | MERS-CoV                                                       | SARS-CoV-2                                                                                                                                              |
+|-------------------|---------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Incubation period | 2-5 days                                                | 2-5 days                                                         | 2-4 days                                                                           | 2-4 days                   | 2-11 days                                                                         | 2-13 days                                                      | 3-6 days                                                                                                                                                |
+| Clinical features | Cough Coryza Dyspnea Fever Myalgia Headache Sore throat | Cough Coryza Fever Headache Sore throat Dyspnea Myalgia Cyanosis | Coryza Cough Fever Dyspnea Myalgia Sore throat Headache Diarrhea Tachypnea Hypoxia | Fever Coryza Myalgia Cough | Fever Cough Dyspnea Diarrhea Malaise Myalgia Headache Rigors Respiratory distress | Fever Cough Dyspnea Diarrhea Pneumonia Acute Renal involvement | Fever Cough Fatigue Headache Dyspnea Diarrhea Headache Myalgia Pneumonia Acute respiratory distress Anosmia Ageusia Dyspnea Acute myocardial infarction |
+| Case fatality     | N/A                                                     | N/A                                                              | N/A                                                                                | N/A                        | 9.6%                                                                              | 34.4%                                                          | 3.4%                                                                                                                                                    |
+
+storm have been suggested to play a role [58]. On studying the development of venous and arterial thrombotic events, most of the venous thromboembolic events were Pulmonary Embolisms (PEs) [59].  Moreover,  there  have  also  been  reports  of an increase in the number of children presenting with  a  disease  termed  Multisystem  Inflammatory  Syndrome  in  Children  (MIS-C),  thought  to be a result of SARS-CoV-2 induced inflammation [60,61].    Lastly,  opthalmological  involvement  is infrequent but it has been documented nevertheless; majorly as ocular pain, redness, and follicular conjunctivitis [62].
+
+## n DIAGNOSIS
+
+The diagnosis of CoV infection early in the course of the illness is essential to minimize the risk of large-scale outbreaks in hospitals and local communities [63].
+
+The  Center  for  Disease  Control  and  Prevention (CDC) and WHO recommends respiratory specimens for SARS-CoV-2 nucleic acid amplification tests. Screening of asymptomatic patients is conducted using upper respiratory specimens such as nasopharyngeal (NP) swabs, oropharyngeal (OP), nasopharyngeal wash/aspirate or nasal aspirate
+
+(NA),  throat  swab  while  symptomatic  patients or those with productive cough are screened via lower  respiratory  specimens  such  as  sputum,  a lower  respiratory  tract  aspirate  and  bronchoalveolar lavage. In most cases, the sensitivity of NP swab PCR for COVID-19 is &lt;80% depending on the assay used, sample procurement methods, and stage of illness. As the infection progresses from upper to lower respiratory tract, the sensitivity of NP swab further decreases but lower respiratory specimens such as bronchoalveolar lavage (BAL) may offer higher yields (80-90%) [60, 61]. Lastly, whole  blood,  urine  and  autopsy  from  deceased patients can also be used to detect the presence of virus [64]. Saliva is also highly applied for laboratory surveillance in busy clinical settings as it reduces waiting time for patients, and decreases the viral transmission risk to healthcare workers [65]. The rate of detection of respiratory viruses in saliva has been reported to be comparable to NP swabs [66]. The common factors affecting the accuracy of the results are shown in Figure 4.
+
+## Methods for COVID-19 diagnosis
+
+Electron Microscopy (EM) and cell culture
+
+These two techniques are recommended by CDC for antiviral, and pathogenesis research, but not
+
+<!-- image -->
+
+for clinical practice due to biosafety concerns. The culture  and  intubation  of  SARS-CoV-2  with  cell lines such as Vero revealed cytopathic effects following six weeks of inoculation. EM allows the visualization  of  the  virus,  and  ultra-structural details  of  viral-infected  cells  such  as  spherical particles with crown-like spikes in cell cultures of SARS-CoV-2 infected patients.
+
+## Real-time Reverse Transcriptase Polymerase Chain Reaction (RT\_PCR)
+
+Clinical  specimens  are  obtained  from  nasopharyngeal  swabs  to  extract  the  viral  RNA,  which then undergoes RT-PCR in an automated thermocycler with the master reaction mixture containing all the essential materials to generate a complementary DNA that is amplified and detected via gel electrophoresis [67]. However, this traditional technique is time-consuming and requires well-equipped lab environments with highly skilled expertise for diagnosis.
+
+Many  commercial  and  in-house  assays  have been  developed  based  on  varying  number  of gene targets and different target regions. Extensive  research  has  been  conducted  to  improve the RT-PCR assay such as the COVID-19-RdRp/ Hel  RT-PCR  assay  that  has  lower  limit  of  de-
+
+Figure 4 - Factors affecting the accuracy of COVID-19 testing.
+
+tection  (LoD)  and  greater  specificity  than  the established RdRp-P2 assay for the detection of SARS-CoV-2 RNA in vitro and in patient specimen [68]. Another kind of assay, i.e. the COVID-19-nsp RT-PCR assay requires only one pair of  SARS-CoV-2  primers  specific  towards  nsp2 region which had not been previously targeted but highlighted by genome subtraction [69]. A very  recent  nucleic  acid  based  test  developed by CDC named as the Flu SC2 Multiplex Assay involves  the  simultaneous  detection  of  SARSCoV-2, influenza A, and influenza B. that allows for  ongoing flu surveillance while also testing for SARS-CoV-2 [70].
+
+## Sample-to-answer assay
+
+These tests include the Qiagen QIAstat-Dx Respiratory SARS-CoV-2 Panel, Abbott Diagnostics ID NOW COVID-19,  BioFire  Filmarray  COVID-19, and  Cepheid  Xpert ®   Xpress  recently  authorized by  US  Food  and  Drug  Administration  for  the emergency  detection  of  SARS-CoV-2.  These  do not  require  the  conventional  complex  PCR  settings. These tests integrate the sample and nucleic acid extraction into a cartridge, the nucleic acid amplification  and  signal  detection  are  also  performed inside the closed cartridge, reducing the
+
+cross-contamination  between  samples,  and  increasing availability of molecular testing [71].
+
+## Serology testing (antibody detection)
+
+Detection of  a  rise  in  the  antibodies  against  the specific strains of CoV by Enzyme-Linked Immunosorbent Assay (ELISA) in the sera of patients obtained during either the acute or convalescent phase  of  the  disease  can  be  a  rapid  and  secure method  of  diagnosis  [72].  Che  et  al.,  observed N  protein  in  the  serum  samples  of  the  SARSCoV patients after one day of the disease onset [73]. These N proteins can be used as antigens in ELISA for the detection of antibodies specific to SARS-CoV and several other animal CoV [74, 75]. The  sensitivity  and  specificity  of  serologic  tests are reported to vary. One study found the following  serologic  response  to  a  recombinant  SARSCoV-2 nucleocapsid: IgM (85.4%), IgA (92.7%) observed 5 days following the symptom onset, and IgG (77.9%) observed 14 days after the onset of symptoms [76].
+
+However, many currently offered  serology  tests for SARS-CoV-2 are not sufficiently clinically validated and FDA has warned not to use these tests yet to implicate authentic infection, protective immunity, or to rule out infection. Therefore, an active infection can only be ruled out with sensitive molecular (PCR) assays of respiratory secretions.
+
+## Computed Tomography (CT) scans
+
+It  enables the clinicians to observe the radiologic changes in the lungs, and diagnosis of lung lesions. The typical pattern of a CT scan of COVID-19 infected patient demonstrates ground-glass opacity with  consolidation,  bilateral  patchy  shadowing, and peripheral distribution with rare pleural effusion,  and lymphadenopathy [77,78]. During later stages of infection, crazy-paving patterns develop and  consolidation  of  the  lungs  increases  the  absorption of lesions [79]. The sensitivity of the COVID-19 testing is remarkably increased with a combination of RT-PCR and Chest CT scan [80].
+
+## n MANAGEMENT AND TREATMENT
+
+## Supportive treatments
+
+Supportive care remains the cornerstone of COVID-19 treatment. Oxygen therapy comprises the primary treatment intervention for patients with severe infection. Mechanical ventilation is essen- tial  in  cases  of  respiratory  failure  refractory  to oxygen therapy, whereas hemodynamic support is required for managing septic shock [81]. Other supportive  measures  include  fluid  management and administration of antimicrobials to treat secondary infections. Many direct antiviral drugs to control the SARS-CoV-2 replication and immunomodulatory agents to control cytokine storm and resultant inflammation are being investigated in clinical trials with some early promising results.
+
+## Antiviral agents
+
+Chloroquine (CQ) or hydroxychloroquine (HCQ) were  initially  reported  to  have  anti-viral  activity  against  SARS-CoV-2.  However,  in  the  WHO SOLIDARITY  trial,  an  open-label,  randomized trial being conducted to identify drugs that can be repurposed for use against COVID-19, HCQ was discountinued as it did not show any definite effect on mortality [82].
+
+One  promising  antiviral  drug  remdesivir,  an adenosine  analog,  is  currently  undergoing  several  clinical  trials.  It  is  a  broad-spectrum  antiviral drug. The mechanism of action of remdesivir mimics natural  nucleosides  that  can  be  triphosphorylated by cellular enzymes and incorporated into the viral RNA/DNA strands by the viral polymerases. Remdesivir was initially developed to  treat  Ebola  virus  disease  but  exhibits  activity against many RNA viruses such as RSV and the coronaviruses (including MERS-CoV and SARSCoV) [83].
+
+Preliminary  results  of  an  NIH-sponsored  randomized placebo-controlled clinical trial of remdesivir (ACTT; NCT04280705) for COVID-19 patients with evidence of lung involvement showed that  patients  who  received  Remdesivir  had  median time to recovery 11 days vs. 15 days with a placebo [84]. The survival benefit was noted but was not statistically significant. In the SOLIDARITY trial however, remdesivir was shown to have little  to  no  effect  on  hospitalized  patients  with COVID-19.  Based  on  this  trial  and  three  other randomized controlled trials, the WHO issued a conditional  recommendation  against  the  use  of remdesivir in hospitalized patients on November 20 th , 2020 [85].
+
+Along with HCQ and Remdesivir, the SOLIDARITY  trial  also  included  lopinavir  and  interferon beta-1a but they were also eventually discontinued [82].
+
+Furthermore, baricitinib, an antiinflammatory drug that acts by selective inhibition of Janus kinase (JAK) 1 and 2, was predicted to be a potential therapeutic against SAR-CoV-2. It was associated with an improvement in oxygenation and a reduction in select inflammatory markers in three case series. Therefore, similar to the ACTT-1 for remdesivir, a double blind, placebo controlled trial was conducted to compare the combination of baricitinib plus remdesivir to remdesivir alone. Out of 1,033 patients, 515 recived the combination therapy which was shown to have a 1-day shorter time to recovery and a greater improvement in clinical status,  notably  among those receiving high-flow oxygen or non-invasive ventilation. Based on the results of this trial, the FDA issued an emergency authorization of this combination therapy on November 19 th  2020, for the treatment of suspected or laboratory  confirmed COVID-19 patients requiring  supplemental  oxygen,  invasive  mechanical ventilation,  or  ExtraCorporeal  Membrane  Oxygenation (ECMO); however, baricitinib is not authorized as a stand alone treatment [86, 87].
+
+NIH  and  IDSA  COVID-19  treatment  guidelines recommend remdesivir for hospitalized patients with SpO2 ≤94% on room air or those who require supplemental oxygen [88, 89]. NIH panel also recommends baricitinib in combination with remdesivir for treatment of COVID-19 in patients who are  on  mechanical  ventilation  or  ECMO.  Treatment duration in patients with severe COVID-19, who are not intubated, is 5 days. For patients who are mechanically ventilated or on ECMO, 10 days of  remdesivir  is  recommended.  The  mechanism of action of drugs used in the management of COVID-19 are briefly reported in Table 3.
+
+Insufficient data is available on the optimal therapy duration for patients on mechanical ventilation and ECMO, or patients who have not demonstrated adequate improvement after 5 days of therapy. In  these  patients,  some  experts  prolong  the  total remdesivir therapy duration to up to 10 days (CIII). Limited  data  is  available  for  experts  to  recommend  in  favor  of  or  against  remdesivir  for  the treatment  of  patients  with  mild  to  moderate symptoms of COVID-19.
+
+## Immunomodulatory agents
+
+Tocilizumab, an FDA-authorized anti-IL6R agent has  been  widely  studied.  A  randomized  controlled trial published in The New England Journal of  Medicine studied the effects of tocilizumab on 389 patients.The trial concluded that patients hospitalized with COVID-19 pneumonia, not receiving  mechanical  ventilation,  showed  decreased advancement  to  the  composite  outcome  of  mechanical ventilation or death with the use of tocilizumab; however, it did not improve survival [90]. Also, preliminary findings of a French trial comparing  tocilizumab  plus  standard  treatment to  standard  treatment  alone  administered  to  a sample  of  129  non-ICU  hospitalized  COVID-19 patients  and  those  with  moderate/severe  pneumonia indicated that tocilizumab resulted in a decreased rate of non-invasive or mechanical ventilation in comparison to placebo [91].
+
+Other potential drugs under investigation include Sarilumab (anti-IL6R), Siltuximab (anti-IL6), Anakinra  (anti-IL1),  anti-GM-CSF  agents,  and monoclonal antibodies, specific to SARS-CoV-2.
+
+## Convalescent plasma
+
+A  SARS-CoV-specific  human  monoclonal  antibody, CR3022, was reported to bind potently with the SARS-CoV-2 receptor-binding domain (KD of 6.3 nM) [92].
+
+Table 3 - Drugs utilised in the management of severe COVID-19 and their mechanism of action.
+
+| Drug                     | Mechanism of action                                                                                                                                                                                                                                                                          |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Remdesivir               | Mimics natural nucleosides that can be triphosphorylated by cellular enzymes and incorporated into the viral RNA/DNAstrands by the viral polymerases                                                                                                                                         |
+| Hydroxychloroquine (HCQ) | Alternation in the ACE-2 receptor configuration on cell surface thus blocking viral entry in cells, interference with acidification in phagolysosome leading to blockage of viral replication, and immunomodulation by interfering with toll-like receptor thereby inhibiting cytokine storm |
+| Dexamethasone            | Anti-inflammatory                                                                                                                                                                                                                                                                            |
+| Baricitinib              | Selective inhibition of Janus kinase (JAK) 1 and 2,                                                                                                                                                                                                                                          |
+
+A recent RCT, the PLACID trial, conducted across 39 teritiary care hospitals in India, compared patients with moderate COVID-19 treated with convalescent plasma along with best standard of care to those who received best standard care alone. No difference  in  28  day  mortality  or  progression  to severe disease was noted between the two groups although treatment with convalescent plasma was associated with a higher resolution of shortness of breath and fatigue on day 7 post-enrolment [93]. FDA has approved an Emergency Investigational New Drug (eIND) for expanded access for convalescent  plasma.  However,  the  administration of convalescent plasma is not without risk. These risks  include  pathogen  transmission  (nearly  1 per 2 million transfusions for HIV/HBV/HCV), Transfusion-Associated Circulatory Overload (TACO), allergic transfusion reactions, and Transfusion-Related  Acute  Lung  Injury  (TRALI).  In a  study  to  analyze  adverse  affects  of  convalescent plasma administration in 5,000 hospitalized adults with severe or life-threatening COVID-19, 36 Serious Adverse Events (SAEs) were reported within  four  hours  of  completion  of  transfusion. However,  the  seven-day  mortality  rate  was  estimated to be 14.9% which was higher than the crude estimate of 12.0% [94].
+
+Pooled Intravenous Immunoglobulin (IVIG) is  proposed  as  an  intervention  in  the  setting  of viral-induced lung injury/ARDS. It reduces immune responses through many mechanisms such as reducing interrupting complement cascade, diminished activated CD4+, and cytotoxic CD8+ T cells. However, no clinical trial data to back use in COVID-19 thus far.
+
+## Corticosteroids
+
+In a study to investigate the pathological characteristics of a patient who died from severe infection with SARS-CoV-2 by postmortem biopsies, it was suggested that timely and appropriate use of corticosteroids  together  with  ventilator  support should  be  considered  for  the  severe  patients  to prevent ARDS based on the pathological findings of pulmonary edema and hyaline membrane formation [95].
+
+Table 4 - Management of COVID-19 patients according to severity.
+
+| Mild or Suspected                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Moderate                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Severe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| • Isolation to contain virus transmission. • Test and treat febrile patients for endemic infections irrespective of presence of respiratory signs and symptoms. • Symptomatic treatment such as antipyretics, adequate nutrition and appropriate rehydration • Counsel patients about signs and symptoms of complications that should prompt urgent care. • Closely monitor patients with risk factors for severe illness. Urgent care if they develop any worsening symptoms 1 • WHOrecommends against antibiotic therapy or prophylaxis for patients with mild COVID-19 | • Isolation to contain virus transmission. • For patients at high risk for deterioration, isolation in hospital is preferred. • Test and treat febrile patients for endemic infections irrespective of presence of respiratory signs and symptoms. • Antibiotics should not be used unless there is clinical suspicion of a bacterial infection. • Older people, and children <5 years of age, can be considered for empiric antibiotic treatment for possible pneumonia. • Close monitoring for signs or symptoms of disease progression. • Counselling regarding signs and symptoms of complications for patients being treated at home. Seek urgent care if they develop any of these symptoms. • For hospitalized patients, regularly monitor vital signs (including pulse oximetry) and, where possible, utilize medical early warning scores (e.g. NEWS2, PEWS) that facilitate early recognition and escalation of treatment of the deteriorating patient | • Immediate administration of supplemental oxygen therapy to any patient with emergency signs and to any patient without emergency signs 2 and SpO 2 <90%. • Emergency airway management and oxygen therapy during resuscitation to target SpO 2 ≥94% to patients with emergency signs. • Closely monitor for signs of clinical deterioration, such as rapidly progressive respiratory failure and shock and respond immediately with supportive care interventions. • Regular monitoring of vital signs (including pulse oximetry) and, where possible, utilization of medical early warning scores (e.g. NEWS2, PEWS) that facilitate early recognition and escalation of treatment of the deteriorating patient. • Haematology and biochemistry laboratory testing and electrocardiogram and chest imaging at admission. • Monitor for signs or symptoms suggestive of venous or arterial thromboembolism. |
+
+1 Light headedness, difficulty breathing, chest pain, dehydration.
+
+2 Obstructed or absent breathing, severe respiratory distress, central cyanosis, shock, coma and/or convulsions.
+
+Results  from  the  RECOVERY  Trial  showed  that dexamethasone administered  regularly  for  up  to 10 days resulted in 28-day mortality reduction in certain  groups  of  hospitalized  COVID-19  patient [96]. Hence, dexamethasone, 6mg oral or intravenous daily, is now recommended by NIH and IDSA for patients with severely ill COVID-19 (requiring oxygen  therapy)  including  those  on  mechanical ventilation [88, 89]. The reduced 28-day mortality was among patients receiving either invasive mechanical ventilation or oxygen alone. However, the findings of the RECOVERY trial data do not recommend dexamethasone for hospitalized COVID-19 patients  who  do  not  require  respiratory  support [97]. The management of COVID-19 according to its severity is described in Table 4.
+
+## n VACCINE AND PREVENTION
+
+The genetic sequence of SARS-CoV-2 was released on January 11 th , 2020, and since then many pharmaceutical companies and academic institutions from  various  countries  have  emerged  in  collab- orative efforts to develop the COVID-19 vaccine. Fortunately,  some  candidates  have  successfully entered clinical trial evaluation and proceeded to phase 3 onwards [97].
+
+Phase  2/3  trial  candidates  undergoing  clinical evaluation are depicted in Figure 5.
+
+Fortunately, owing to the strenuous efforts of researchers, eight vaccines have been approved for Emergency Use Authorization (EUA). These belong to four different groups based on their mode of action, which includes mRNA-based vaccine, inactivated vaccine, non-replicating viral vector vaccine  and  peptide  vaccine.  Two  the  mRNAbased  vaccines  developed  by  Pfizer/BioNTech and Moderna have gained popularity owing to their approval in multiple countries. In the trial funded by Pfizer/BioNTech, Fosun Pharma the efficacy of this mRNA based vaccine BNT162b2 was assessed. People over 16 years of age or older in a 1:1 ratio were given two doses, 21 days apart, of either placebo or the BNT162b2 vaccine candidate (30 μg per dose). This aforementioned mRNA vaccine  encodes  a  prefusion  stabilized,
+
+Figure 5 - Vaccine trial candidates  undergoing clinical evaluation for SARS-CoV-2.
+
+<!-- image -->
+
+Figure  6 -  Guidelines  to  prevent the spread of COVID-19.
+
+<!-- image -->
+
+Table 5 - COVID-19 vaccines available for usage undergoing Emergency Use Authorization.
+
+| Name              | Vaccine Type                   | Primary Developers                                      | Country of Origin   | Authorized/ Approval                                                       | Dosage                            | Regulations                                                                                                  |
+|-------------------|--------------------------------|---------------------------------------------------------|---------------------|----------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------|
+| BNT162b2          | mRNA based                     | Pfizer, BioNTech, Fosun Pharma                          | Multinational       | UK, Bahrain, Canada, Mexico, US, Singapore, Oman, Saudi Arabia, Kuwait, EU | Intramuscular injection two-doses | Fosun Pharma has licensed BNT162b2 in China                                                                  |
+| mRNA1273          | mRNA based                     | Moderna, BARDA, NIAID                                   | US                  | US/CANADA                                                                  | Two doses taken 28 days apart     | In the US, EUAissued for patients 18 years and older                                                         |
+| CoronaVac         | Inactivated vaccine            | Sinovac                                                 | China               | China                                                                      | Two doses 14-28 days apart        | China has approved this as part of an emergency use program                                                  |
+| No name announced | Inactivated vaccine            | Wuhan Institute of Biological Products. China National) | China               | China                                                                      | -                                 | Only for an emergency use program in China. Phase 3 data have not yet been published for this vaccine        |
+| Sputnik V         | Non- replicating viral vector  | Gamaleya Research Institute,                            | Russia              | Russia                                                                     | -                                 | The Health Ministry of the Russian Federation approved Sputnik V as the first vaccine for COVID-19           |
+| BBIBP-CorV        | Inactivated vaccine            | Beijing Institute of Biological Products                | China               | China, United Arab Emirates, Bahrain                                       | -                                 | China has approved BBIBP- CorV as part of an emergency use program                                           |
+| EpiVacCorona      | Peptide Vaccine                | Federal Budgetary Research Institution State            | Russia              | Russia                                                                     | -                                 | Russia has granted regulatory approval to EpiVacCorona despite the candidate not yet entering Phase 3 trials |
+| Covaxin           | Inactivated SARS-CoV-2 Vaccine | Bharat Biotech                                          | India               | India                                                                      | -                                 | The vaccine was granted approval for EUAwith seven weeks into phase 3                                        |
+
+membrane-anchored SARS-CoV-2 full-length spike protein. The vaccine (BNT162b2) was 95% effective  in  preventing  COVID-19.  Moreover, similar  vaccine  efficacy  (generally  90  to  100%) was observed across subgroups defined by age, sex,  race,  ethnicity,  baseline  body-mass  index, and  the  presence  of  coexisting  conditions.  The safety  profile  of  BNT162b2  was  characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. Safety over a median of 2 months was similar to that of other viral  vaccines  [98].  It  is  imperative  to  focus  on the  potential  hurdles  regarding  perception  of this  vaccine  in  the  mass  population  and  distribution of vaccine especially in low- and middleincome countries. However, a thorough strategic planning will need to be devised to ensure optimum coverage with these vaccines to ease the crippling healthcare system.
+
+The list of COVID-19 vaccines available for usage after undergoing emergent use authorization are shown in Table 5.
+
+The  Center  for  Disease  Control  and  Prevention (CDC) and the WHO has initiated a set of guidelines for the general public as well as health professionals.  These  guidelines  are  reported  in  Figure 6.
+
+## n CONCLUSION
+
+In  conclusion,  the  COVID-19  pandemic  has  resulted in millions of infections globally and has stressed healthcare and economic systems to the extreme.  Rapid  diagnostic  testing  and  effective anti-viral therapy are essential to reduce mortality  associated  with  COVID-19. However, due to its  pandemic  nature,  the  prevention  of  this  disease eventually rests on the mass implementation of the vaccine developed.
+
+## Conflict of interest None
+
+## Funding None
+
+## n REFERENCES
+
+[1]  Lai  CC,  Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) and coronavirus disease-2019 (COVID-19): The epidemic  and  the  challenges. Int  J  Antimicrob  Agents . 2020; 55 (3), 105924.
+
+[2]  World  Health  Organization.  COVID-19  Situation  report  51. 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200311sitrep-51-covid-19.pdf?sfvrsn=1ba62e57\_10. Accessed: July 11, 2020.
+
+[3]  Bogoch  II,  Watts  A,  Thomas-Bachli  A,  Huber  C, Kraemer MUG, Khan K. Pneumonia of unknown aetiology  in  Wuhan,  China:  potential  for  international spread via commercial air travel. J Travel Med . 2020; 27 (2), taaa008.
+
+[4] Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak . J Autoimmun. 2020; 109, 102433.
+
+[5] World Health Organization. COVID-19 Weekly epidemiological update - January 17, 2021. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/weekly\_epidemiological\_up-date\_23.pdf?sfvrsn=6ac0778\_5&amp;download=true. Accessed: January 19, 2021.
+
+[6] Meo SA, Alhowikan AM, Al-Khlaiwi T, et al. Novel coronavirus 2019-nCoV:  prevalence, biological  and clinical characteristics comparison with SARS-CoV and MERS-CoV. Eur  Rev  Med  Pharmacol  Sci .  2020;  24  (4), 2012-9.
+
+[7]  World  Health  Organization.  Pneumonia  of  unknown cause  -  China. Available  from:  https://www. who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/. Accessed: June 15, 2020.
+
+[8] Khan M, Adil SF, Alkhathlan HZ, Tahir MN, Saif S, Khan M, Khan ST. COVID-19: A global challenge with old  history,  epidemiology  and  progress  so  far. Molecules. 2020; 26 (1), 39.
+
+[9] World Health Organization. COVID-19 Weekly epidemiological update - August 30, 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200831-weekly-epi-update-3. pdf?sfvrsn=d7032a2a\_4&amp;download=true. Accessed: January 19, 2021.
+
+[10]  World  Health  Organization.  COVID-19  Weekly epidemiological  update  -  September  28.  2020.  Available from: https://www.who.int/docs/default-source/ coronaviruse/situation-reports/20200928-weekly-epiupdate.pdf?sfvrsn=9e354665\_6&amp;download=true. Accessed: January 19, 2021.
+
+[11] World Health Organization. COVID-19 Weekly epidemiological update - January 5. 2021. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20210105\_weekly\_epi\_up-date\_21.pdf?sfvrsn=15359201\_15&amp;download=true. Accessed: January 19, 2021
+
+[12] World Health Organization. COVID-19 Weekly epidemiological update - January 19. 2020.  A vailable from: https:// www.who.int/docs/default-source/coronaviruse/situation-reports/weekly\_epidemiological\_update\_23.pdf?sfvrs
+
+n=6ac0778\_5&amp;download=true. Accessed: January 19, 2021. [13] Fehr AR, Perlman S. Coronaviruses: an overview of their replication and pathogenesis. Methods Mol Biol . 2015; 1282, 1-23.
+
+[14] Li F. Structure, Function, and Evolution of Coronavirus Spike Proteins. Annu Rev Virol. 2016; 3 (1), 237-61. [15]  Tyrrell  DAJ,  Myint  SH.  Coronaviruses.  In:  Baron S, editor. Medical Microbiology. 4th edition. Galveston (TX): University of Texas Medical Branch at Galveston; 1996.  Chapter  60.  Available  from:  https://www.ncbi. nlm.nih.gov/books/NBK7782/
+
+[16]  Van  Hemert  MJ,  van  den  Worm  SH,  Knoops  K, Mommaas  AM,  Gorbalenya  AE,  Snijder  EJ.  SARScoronavirus  replication/transcription  complexes  are membrane-protected and need a host factor for activity in vitro. PLoS Pathog . 2008; 4 (5): e1000054.
+
+[17] Neuman BW, Adair BD, Yoshioka C, et al. Supramolecular architecture of severe acute respiratory syndrome  coronavirus  revealed  by  electron  cryomicroscopy. J Virol . 2006; 80 (16), 7918-28.
+
+[18] Beniac DR, Andonov A, Grudeski E, Booth TF. Architecture of the SARS coronavirus prefusion spike. Nat Struct Mol Biol . 2006; 13 (8), 751-2.
+
+[19] Nieto-Torres JL, DeDiego ML, Verdiá-Báguena C, et  al.  Severe  acute  respiratory  syndrome  coronavirus envelope protein ion channel activity  promotes virus fitness  and  pathogenesis. PLoS  Pathog. 2014;  10  (5): e1004077.
+
+[20] Hurst KR, Koetzner CA, Masters PS. Characterization  of  a  critical  interaction  between  the  coronavirus nucleocapsid protein and nonstructural protein 3 of the viral  replicase-transcriptase  complex. J  Virol .  2013;  87 (16), 9159-72.
+
+[21] Cui L, Wang H, Ji Y, et al. The nucleocapsid protein of  coronaviruses acts as a viral suppressor of RNA silencing in mammalian cells. J Virol . 2015; 89 (17), 9029-43. [22] Klausegger A, Strobl B, Regl G, Kaser A, Luytjes W, Vlasak R. Identification  of  a  coronavirus  hemagglutinin-esterase with a substrate specificity different from those of influenza C virus and bovine coronavirus. J Virol. 1999; 73 (5), 3737-43.
+
+[23] Kubo H, Yamada YK, Taguchi F. Localization of neutralizing  epitopes  and  the  receptor-binding  site  within the amino-terminal 330 amino acids of the murine coronavirus spike protein. J Virol. 1994; 68 (9), 5403-10.
+
+[24]  Li  W,  Moore MJ, Vasilieva N, et al. Angiotensinconverting  enzyme  2  is  a  functional  receptor  for  the SARS coronavirus. Nature . 2003; 426 (6965), 450-4.
+
+[25] Raj VS, Mou H, Smits SL, et al. Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC. Nature. 2013; 495 (7440), 251-4.
+
+[26] Belouzard S, Chu VC, Whittaker GR. Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites. Proc Natl Acad Sci USA . 2009; 106 (14), 5871-6.
+
+[27] Samudrala PK, Kumar P, Choudhary K, et al. Vi- rology, pathogenesis, diagnosis and in-line treatment of COVID-19. Eur J Pharmacol. 2020; 883, 173375.
+
+[28]  Krijnse-Locker J, Ericsson M, Rottier PJ, Griffiths G.  Characterization  of  the  budding  compartment  of mouse hepatitis virus: evidence that transport from the RER to the Golgi complex requires only one vesicular transport step. J Cell Biol . 1994; 124 (1-2), 55-70.
+
+[29] Zhang H, Penninger JM, Li Y, Zhong N, Slutsky AS.  Angiotensin-converting  enzyme  2  (ACE2)  as  a SARS-CoV-2 receptor: molecular mechanisms and potential therapeutic target . Intens Care Med . 2020; 46 (4), 586-90.
+
+[30] Li H, Liu L, Zhang D, et al. SARS-CoV-2 and viral sepsis: observations and hypotheses. Lancet .  2020; 395 (10235), 1517-20.
+
+[31] Lin L, Lu L, Cao W, Li T. Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia. Emerg Microbes Infect . 2020; 9 (1), 727-32.
+
+[32] China National Health Commision Diagnosis and treatment  of  novel  coronavirus  pneumonia  in  China (trial  version  7).  Available  from:  https://www.who. int/docs/default-source/wpro---documents/countries/china/covid-19-briefing-nhc/1-clinical-protocols-for-the-diagnosis-and-treatment-of-covid-19-v7. pdf?sfvrsn=c6cbfba4\_2. Accessed: July 10, 2020.
+
+[33] Yao XH, Li TY, He ZC, et al. A pathological report of three COVID-19 cases by minimally invasive autopsies. Zhonghua Bing Li Xue Za Zhi . 2020; 49 (5), 411-7.
+
+[34] Wichmann D, Sperhake JP, Lütgehetmann M, et al. Autopsy  Findings  and  Venous  Thromboembolism  in Patients With COVID-19: A Prospective Cohort Study. Ann Intern Med . 2020; 173 (4), 268-77.
+
+[35]  Ackermann  M,  Verleden  SE,  Kuehnel  M,  et  al. Pulmonary  vascular  endothelialitis,  thrombosis,  and angiogenesis in Covid-19. N Engl J Med .  2020; 383 (2), 120-8.
+
+[36] Luers JC, Rokohl AC, Loreck N, et al. Olfactory and Gustatory Dysfunction in Coronavirus Disease 19 (COVID-19) . Clin Infect Dis. 2020; 71 (16), 2262-4.
+
+[37] Wiersinga WJ, Rhodes A, Cheng AC, Peacock SJ &amp; Prescott HC. Pathophysiology, transmission, diagnosis, and treatment of coronavirus disease 2019 (COVID-19). JAMA. 2020; 324 (8), 782-93.
+
+[38] Li X, Zai J, Zhao Q, et al. Evolutionary history, potential intermediate animal host, and cross-species analyses of SARS-CoV-2 . J Med Virol . 2020; 92 (6), 602-11.
+
+[39]  Doremalen NV, Morris DH, Holbrook MG, et al. Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1. N Engl J Med . 2020; 382 (16), 1564-7.
+
+[40] Wiersinga WJ, Rhodes A, Cheng AC, Peacock SJ, Prescott  HC.  Pathophysiology,  Transmission,  Diagnosis,  and  Treatment  of  Coronavirus  Disease  2019  (COVID-19): A Review. JAMA. 2020; 324 (8), 782-93.
+
+[41] Zeng L, Xia S, Yuan W, et al. Neonatal Early-Onset
+
+Infection  With  SARS-CoV-2  in  33  Neonates  Born  to Mothers With COVID-19 in Wuhan, China. JAMA Pediatr . 2020; 174 (7), 722-5.
+
+[42] Jones DL, Baluja MQ, Graham DW, et al. Shedding of SARS-CoV-2 in feces and urine and its potential role in person-to-person transmission and the environmentbased spread of COVID-19. Sci Total Environ . 2020; 749, 141364.
+
+[43] Chen H, Guo J, Wang C, et al. Clinical characteristics  and  intrauterine  vertical  transmission  potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records. Lancet . 2020; 395 (10226), 809-15.
+
+[44] Sunjaya AP, Jenkins C. Rationale for universal face masks in public against COVID-19. Respirology . 2020; 25 (7), 678-9.
+
+[45]  World  Health  Organization.  SARS-CoV-2  Variants. 2020. Available from:: https://www.who.int/csr/ don/31-december-2020-sars-cov2-variants/en/. Accessed: January 7, 2021.
+
+[46] Leung K, Shum MH, Leung GM, Lam TT, Wu JT. Early transmissibility assessment of the N501Y mutant strains of SARS-CoV-2 in the United Kingdom, October to November 2020. Euro Surveill . 2021; 26 (1), 2002106.
+
+[47]  He,  X,  Lau,  EHY,  Wu,  P.  et  al.  Temporal  dynamics in viral shedding and transmissibility of COVID-19. Nat Med . 2020; 26 (5), 672-5.
+
+[48] Ye ZW, Yuan S, Yuen KS, Fung SY, Chan CP, Jin DY. Zoonotic origins of human coronaviruses. Int J Biol Sci . 2020; 16 (10), 1686-97.
+
+[49] Zhang JJ, Dong X, Cao YY, et al. Clinical characteristics of 140 patients infected with SARS-CoV-2 in Wuhan, China. Allergy. 2020; 75 (7), 1730-41.
+
+[50] Lighter J, Phillips M, Hochman S, et al. Obesity in patients younger than 60 years is a risk factor for Covid-19 hospital admission. Clin Infect Dis . 2020; 71 (15), 896-7.
+
+[51]  Ludvigsson  JF.  Systematic  review  of  COVID-19 in children shows milder cases and a better prognosis than adults. Acta Paediatr. 2020; 109 (6), 1088-95.
+
+[52] Giacomelli A, Pezzati L, Conti F, et al. Self-reported Olfactory and Taste Disorders in Patients With Severe Acute  Respiratory  Coronavirus  2  Infection:  A  Crosssectional Study. Clin Infect Dis. 2020; 71 (15), 889-90.
+
+[53]  Recalcati  S.  Cutaneous  manifestations  in  COVID-19: a first perspective. J Eur Acad Dermatol Venereol. 2020; 34 (5), e212-3.
+
+[54] Wang D, Hu B, Hu C, et al. Clinical characteristics of 138 hospitalized patients with 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA . 2020; 323 (11), 1061-9.
+
+[55] Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular system. Nat Rev Cardiol. 2020; 17 (5), 259-60.
+
+[56] Long B, Brady WJ, Koyfman A, Gottlieb M. Cardiovascular complications in COVID-19. Am J Emerg Med . 2020; 38 (7), 1504-7.
+
+[57] Mao L, Jin H, Wang M, et al. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China. JAMA Neurol. 2020; 77 (6), 683-90. [58]  Zhang  C,  Shi  L,  Wang  FS.  Liver  injury  in  COVID-19: management and challenges. Lancet Gastroenterol Hepatol . 2020; 5 (5), 428-30.
+
+[59] Klok FA, Kruip MJHA, van der Meer NJM, et al. Incidence of thrombotic complications in critically ill ICU patients with COVID-19. Thromb Res. 2020; 191,145-7.
+
+[60] Mahase E. Covid-19: concerns grow over inflammatory syndrome emerging in children. BMJ . 2020; 369: m1710.
+
+[61] Verdoni L, Mazza A, Gervasoni A, et al. An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study. Lancet . 2020; 395 (10239), 1771-8.
+
+[62] Aggarwal K, Agarwal A, Jaiswal N, et al. Ocular surface  manifestations  of  coronavirus  disease  2019 (COVID-19):  A  systematic  review  and  meta-analysis. PLoS One . 2020; 15 (11), e0241661.
+
+[63]  Riley  S,  Fraser  C,  Donnelly  CA,  et  al.  Transmission dynamics of the etiological agent of SARS in Hong Kong:  impact  of  public  health  interventions. Science. 2003; 300 (5627), 1961-6.
+
+[64] Pan Y, Zhang D, Yang P, et al. Viral load of SARSCoV-2 in clinical samples. Lancet Infect Dis. 2020; 20 (4), 411-2.
+
+[65] To KK, Tsang OT, Yip CC, et al. Consistent detection of 2019 novel coronavirus in saliva. Clin Infect Dis. 2020; 71 (15), 841-3.
+
+[66] Kim YG, Yun SG, Kim MY, et al. Comparison between saliva and nasopharyngeal swab specimens for detection  of  respiratory  viruses  by  multiplex  reverse transcription-PCR. J Clin Microbiol . 2016; 55 (1), 226-33. [67] Corman VM, Landt O, Kaiser M, et al. Detection of
+
+2019 novel coronavirus (2019-nCoV) by real-time RTPCR . Euro Surveill . 2020; 25 (3): 2000045.
+
+[68] Chan JF, Yip CC, To KK, et al. Improved molecular diagnosis of COVID-19 by the novel, highly sensitive and  specific  COVID-19-RdRp/Hel  real-time  reverse transcription-polymerase chain reaction assay validated in vitro and with clinical specimens. J Clin Microbiol . 2020; 58 (5), e00310-20.
+
+[69] Yip CC, Ho CC, Chan JF, et al. Development of a Novel, Genome  Subtraction-Derived, SARS-CoV-2Specific COVID-19-nsp2 Real-Time RT-PCR Assay and Its Evaluation Using Clinical Specimens. Int J Mol Sci . 2020; 21 (7), 2574.
+
+[70]  Centers  for  Diseases  Control  and  Prevention. CDC's Influenza SARS-CoV-2 Multiplex Assay and Required Supplies. update - February 2, 2021. Available from:  https://www.cdc.gov/coronavirus/2019-ncov/ lab/multiplex.html
+
+[71] Food and Drug Administration, US. Coronavirus Disease 2019 (COVID-19) Emergency Use Authorizations for Medical Devices. Available from: https://www.fda.gov/
+
+medical-devices/emergency-situations-medical-devices/ emergency-use-authorizations-medical-devices.
+
+[72] Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet . 2020; 395 (10223), 497-506.
+
+[73] Che XY, Hao W, Wang Y, et al. Nucleocapsid protein as early diagnostic marker for SARS. Emerg Infect Dis . 2004; 10 (11), 1947-9.
+
+[74]  Blanchard  EG,  Miao  C,  Haupt  TE, Anderson  LJ, Haynes LM. Development of a recombinant truncated nucleocapsid protein based immunoassay for detection of antibodies against human coronavirus OC43. J Virol Methods . 2011; 177 (1), 100-6.
+
+[75] Timani KA, Ye L, Ye L, Zhu Y, Wu Z, Gong Z. Cloning, sequencing, expression, and purification of SARSassociated coronavirus nucleocapsid protein for serodiagnosis of SARS. J Clin Virol . 2004; 30 (4), 309-12.
+
+[76] Guo L, Ren L, Yang S, et al. Profiling Early Humoral  Response  to  Diagnose  Novel  Coronavirus  Disease (COVID-19). Clin Infect Dis . 2020; 71 (15), 778-85.
+
+[77] Jiang F, Deng L, Zhang L, Cai Y, Cheung CW, Xia Z. Review of the Clinical Characteristics of Coronavirus Disease 2019 (COVID-19). J Gen Intern Med . 2020; 35 (5), 1545-9. [78] Long C, Xu H, Shen Q, et al. Diagnosis of the Coronavirus disease (COVID-19): rRT-PCR or CT? Eur J Radiol. 2020; 126, 108961.
+
+[79] Pan F, Ye T, Sun P, et al. Time course of lung changes on chest CT during recovery from coronavirus disease 2019 (COVID-19). Radiology 2020; 295 (3), 715-21.
+
+[80] M Corman V, Landt O, Kaiser M, et al. Detection of 2019 Novel Coronavirus (2019-nCoV) by Real-Time RTPCR. Euro Surveill 2020; 26 (5), 210204e.
+
+[81]Cascella M, Rajnik M, Cuomo A, Dulebohn SC, Di Napoli  R.  Features,  Evaluation  and  Treatment  Coronavirus  (COVID-19) StatPearls. 2020;  Available  from: https://www.ncbi.nlm.nih.gov/books/NBK554776/
+
+[82] WHO Solidarity Trial Consortium, Pan H, Peto R, et al. Repurposed Antiviral Drugs for Covid-19 - Interim WHO Solidarity Trial Results. N Engl J Med. 2020; doi: 10.1056/NEJMoa2023184.
+
+[83] Sheahan TP, Sims AC, Leist SR, et al. Comparative therapeutic  efficacy  of  remdesivir  and  combination lopinavir, ritonavir, and interferon beta against MERSCoV. Nat Commun. 2020; 11 (1), 222.
+
+[84] Clinical Trials. Adaptive COVID-19 Treatment Trial (ACTT). Available from: https://clinicaltrials.gov/ct2/ show/NCT04280705Accessed: July 24, 2020.
+
+[85]  World  Health  Organization.  WHO  recommends against  the  use  of  remdesivir  in  COVID-19  patients. Available from: https://www.who.int/news-room/
+
+feature-stories/detail/who-recommends-against-theuse-of-remdesivir-in-covid-19-patients
+
+[86] Kalil AC, Patterson TF, Mehta AK, et al. Baricitinib plus  Remdesivir  for  Hospitalized  Adults  with  Covid-19. N Engl J Med. 2020; doi: 10.1056/NEJMoa2031994. [87] Food and Drug Administration, US. Coronavirus (COVID-19)  Update:  FDA  Authorizes  Drug  Combination  for  Treatment  of  COVID-19.  Available  from: https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizesdrug-combination-treatment-covid-1987
+
+[88]  NIH.  COVID-19  Treatment  Guidelines. Available from:  https://www.covid19treatmentguidelines.nih.gov/ Accessed: August 26, 2020.
+
+[89]  Bhimraj A,  Morgan  RL,  Shumaker AH,  et  al.  Infectious  Diseases  Society  of  America  Guidelines  on the Treatment and Management of Patients with CO-
+
+VID-19. Clin Infect Dis. 2020; doi: 10.1093/cid/ciaa478. N Engl J
+
+[90] Salama C, Han J, Yau L, et al. Tocilizumab in Patients Hospitalized with Covid-19 Pneumonia. Med. 2021; 384 (1), 20-30.
+
+[91]  Some  drugs  for  COVID-19. Med Lett Drugs Ther . 2020; 62 (1595), 49-50. Available from: https://secure. medicalletter.org/w1919a
+
+[92] Tian X, Li C, Huang A, et al. Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific  human  monoclonal  antibody. Emerg  Microbes Infect. 2020; 9 (1), 382-5.
+
+[93] Agarwal A, Mukherjee A, Kumar G, et al. Convalescent  plasma  in  the  management  of  moderate  covid-19 in adults in India: open label phase II multicentre randomised controlled trial (PLACID Trial) BMJ 2020; 371, m4232.
+
+[94] Joyner M,  Wright  RS, Fairweather D, et al. Early Safety Indicators of COVID-19 Convalescent  Plasma  in  5,000  Patients. medRxiv .  2020;  doi: 10.1101/2020.05.12.20099879.
+
+[95]  Xu  Z,  Shi  L,  Wang Y,  et  al.  Pathological  findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020; 8 (4), 420-2.
+
+[96]  RECOVERY  Collaborative  Group,  Horby  P,  Lim WS, et al. Dexamethasone in Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med. 2020; doi: 10.1056/NEJMoa2021436.
+
+[97] Zhang N, Li C, Hu Y, et al. Current development of COVID-19 diagnostics, vaccines and therapeutics. Microbes Infect . 2020; 22 (6-7), 231-5.
+
+[98] Polack FP, Thomas SJ, Kitchin N, et al. Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine. N Engl J Med. 2020; 383 (27), 2603-15.
