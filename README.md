@@ -43,14 +43,28 @@ then inside the folders create new folders called; markdown outputs, html output
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vp27bsfk0h0ttorb2jz0.png)
 
-### Step 4: Changing the pdfs into html format
+### step 4: Default options.
+- Start by running default options
+run;
+```
+docling your-pdf
+```
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hlc53h8htczj4lt1wcv0.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdg4754gdk8ngghcrvyt.png)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otjr3hiis9wydpimsjhd.png)
+
+### Step 5: Changing the pdfs into html format
 ```shell
 docling --to html *.pdf --output ~Documents/docling_cli/outputs/html_outputs
 ```
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/awuw0owsm19mlihrna2f.png)
 
-### Step 5: Changing the pdfs into other formats
+### Step 6: Changing the pdfs into other formats
 #### 1. Markdown
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3cnza6xffqqdv95omjjx.png)
@@ -87,7 +101,7 @@ docling --to html *.pdf --output ~Documents/docling_cli/outputs/html_outputs
 
 
 
-### Step 6: Analyzing the result findings.
+### Step 7: Analyzing the result findings.
 I used three types of pdfss;
 one with tables, the other with text and images and the other had tables and paragraphs. Here are my key findings;
 
