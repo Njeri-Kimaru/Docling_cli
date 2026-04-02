@@ -44,7 +44,8 @@ then inside the folders create new folders called; markdown outputs, html output
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vp27bsfk0h0ttorb2jz0.png)
 
 ### step 4: Default options.
-- Start by running default options
+Start by running default options
+Changes pdf format into markdown.
 run;
 ```
 docling your-pdf
@@ -104,6 +105,7 @@ docling --to html *.pdf --output ~Documents/docling_cli/outputs/html_outputs
 ### Step 7: Analyzing the result findings.
 I used three types of pdfss;
 one with tables, the other with text and images and the other had tables and paragraphs. Here are my key findings;
+The default options turned the outputs into markdown 
 
 #### 1. Pdf with tables
 - In HTML, the rows and columns came out better than they were in the original pdf. 
