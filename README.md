@@ -67,36 +67,55 @@ docling --to html *.pdf --output ~Documents/docling_cli/outputs/html_outputs
 
 ### Step 6: Changing the pdfs into other formats
 #### 1. Markdown
+```
+docling --to md *.pdf --output ~Documents/docling_cli/outputs/markdown_outputs
+```
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3cnza6xffqqdv95omjjx.png)
 
 
 #### 2. Json
-
+```
+docling --to json *.pdf --output ~Documents/docling_cli/outputs/json_outputs
+```
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuufwel6js9kkbczotrc.png)
 
 
 #### 3. Plain text
-
+```
+docling --to text *.pdf --output ~Documents/docling_cli/outputs/plaintext_outputs
+```
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3ev3jvnot3i3npct86t.png)
 
 
 #### 4. yaml
+```
+docling --to yaml *.pdf --output ~Documents/docling_cli/outputs/yaml_outputs
+```
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ktwkgb0fux76efv5qoq.png)
 
 
 #### 5. html_split_page
+```
+docling --to html_split_page *.pdf --output ~Documents/docling_cli/outputs/html_split_page_outputs
+```
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zpdlazql3iyhglcapu23.png)
 
 
 #### 6. DOCtags
+```
+docling --to doctags *.pdf --output ~Documents/docling_cli/outputs/doctags_outputs
+```
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w7nxa84d44bc91d4fuzm.png)
 
 
 #### 7. vtt
+```
+docling --to vtt *.pdf --output ~Documents/docling_cli/outputs/vtt_outputs
+```
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugs093q1pyftsyvrp4q8.png)
 
